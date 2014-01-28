@@ -2,19 +2,15 @@
 	"name": "leveltalk",
 	"version": "1.0.0",
 	"description": "Example code for Nodejs Meetup Talk about LevelDB",
-	"main": "./lib/nq.js",
 	"dependencies": {
 		"hyperlevel": "*",
 		"level-live-stream": "*",
 		"level-sublevel": "*",
 		"multilevel": "*"
 	},
-	"scripts": {
-		"test": "node ./test/nq.js"
-	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/KenanSulayman/level-namequery.git"
+		"url": "https://github.com/KenanSulayman/leveldb-talk-january-2014.git"
 	},
 	"keywords": [
 		"level",
@@ -27,7 +23,11 @@
 		"namequery",
 		"lookup",
 		"searchengine",
-		"engine"
+		"engine",
+		"leveltalk",
+		"leveldb",
+		"kenan",
+		"sulayman"
 	],
 	"author": "Kenan Sulayman <kenan@sly.mn>"
 }
